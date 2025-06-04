@@ -221,4 +221,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Peiwast Hama - [peiwasthama@gmail.com](mailto:peiwasthama@gmail.com)
 
-Project Link: [https://github.com/peiwasthama/ScanningTool](https://github.com/peiwasthama/ScanningTool)
+Project Link: [https://github.com/peiwasthama/scanningTool](https://github.com/peiwasthama/scanningTool)
